@@ -1,5 +1,5 @@
 // TinyTimer.h
-// 000-003
+// 000-004
 
 #ifndef _TINYTIMER_h
 #define _TINYTIMER_h
